@@ -5,12 +5,12 @@ Predicting groundwater levels is crucial for sustainable water resource manageme
 
 This repository contains a complete pipeline for:
 
-Preprocessing groundwater datasets
+1.Preprocessing groundwater datasets
 
-Dimensionality reduction using PCA
+2.Dimensionality reduction using PCA
 
-Clustering regions based on groundwater risk using KMeans
+3.Clustering regions based on groundwater risk using KMeans
 
-Visualizing the patterns to assist in regional water conservation strategies
+4.Visualizing the patterns to assist in regional water conservation strategies
 
 The goal is to provide early warning and categorization of groundwater risk levels to help policymakers and researchers in water resource planning.
